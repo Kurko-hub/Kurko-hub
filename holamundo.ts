@@ -1,4 +1,4 @@
-console.log('UwU');
-console.log('UwU');
-console.log('UwU');
-console.log('UwU');
+
+LockManager
+
+const Purbas : string = 'Esto es un test'; 
